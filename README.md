@@ -1,4 +1,4 @@
-# Minha dieta LOW CARB
+# Minha dieta: LOW CARB ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Dihydroxyacetone_Fischer.svg)
 
 Vou tentar logar todos os dias minha alimentação para futuras análises, essa dieta se baseia em ingerir um limite de 50g a 100g **NO MÁXIMO** por dia.
 
