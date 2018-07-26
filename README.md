@@ -4,7 +4,7 @@ Vou tentar logar todos os dias minha alimentação para futuras análises, essa 
 
 Vamos ver até quanto tempo ela vai durar e até quanto tempo conseguirei criar esse diário.
 
-## Execessão
+## Exceção
 
 Um dia na semana me liberarei para comer até 200g de carboidratos, até eu chegar ao peso de 65Kg, devo estar com 68Kg agora.
 Depois que eu baixar de 65Kg já posso comer mais carboidrato nesse dia tão especial hehehe.
