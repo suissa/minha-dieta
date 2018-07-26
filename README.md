@@ -20,6 +20,16 @@ Um excesso de carboidratos pode provocar um aumento de peso, aumento de tecido a
 <br>
 
 
+## Dicas
+
+### Quantidade de fibras
+
+Ao contar a quantidade de carboidratos existentes em um alimento, diminua a quantidade de fibras. 
+
+Por exemplo: um kiwi contém 11,14 gramas de carbos e 2,3 gramas de fibra. 
+Portanto, a quantidade de carboidratos líquidos, ou seja, a quantidade que realmente irá contar na sua dieta é 8,84 gramas.
+
+
 ## Ferramentas
 
 ### Tabela Nutricional
