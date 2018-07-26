@@ -1,4 +1,4 @@
-<img src="http://3.bp.blogspot.com/-qrsv-svcNvk/Vgl5HLCaTBI/AAAAAAAAD9M/Pr7Cs9KwTtM/s1600/diario%2Bdieta.jpg" style="display:block;width:560px;margin:0 auto;">
+![Diario da Dieta](http://makesbycarla.com.br/wp-content/uploads/2016/09/diario-dieta.jpg)
 
 # Minha dieta: LOW CARB ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Dihydroxyacetone_Fischer.svg)
 
