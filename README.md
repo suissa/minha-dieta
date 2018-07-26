@@ -1,6 +1,6 @@
-<img height=300 align="center" src="http://3.bp.blogspot.com/-qrsv-svcNvk/Vgl5HLCaTBI/AAAAAAAAD9M/Pr7Cs9KwTtM/s1600/diario%2Bdieta.jpg" style="text-align:center">
+<img src="http://3.bp.blogspot.com/-qrsv-svcNvk/Vgl5HLCaTBI/AAAAAAAAD9M/Pr7Cs9KwTtM/s1600/diario%2Bdieta.jpg" style="display:block;width:560px;margin:0 auto;">
 
-# Minha dieta:  LOW CARB ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Dihydroxyacetone_Fischer.svg)
+# Minha dieta: LOW CARB ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Dihydroxyacetone_Fischer.svg)
 
 Vou tentar logar todos os dias minha alimentação para futuras análises, essa dieta se baseia em ingerir um limite de 50g a 100g **NO MÁXIMO** por dia.
 
