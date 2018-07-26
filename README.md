@@ -1,4 +1,4 @@
-<img height=200 src="http://3.bp.blogspot.com/-qrsv-svcNvk/Vgl5HLCaTBI/AAAAAAAAD9M/Pr7Cs9KwTtM/s1600/diario%2Bdieta.jpg">
+<img height=300 align="center" src="http://3.bp.blogspot.com/-qrsv-svcNvk/Vgl5HLCaTBI/AAAAAAAAD9M/Pr7Cs9KwTtM/s1600/diario%2Bdieta.jpg" style="text-align:center">
 
 # Minha dieta:  LOW CARB ![](https://upload.wikimedia.org/wikipedia/commons/e/e7/Dihydroxyacetone_Fischer.svg)
 
