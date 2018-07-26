@@ -6,8 +6,18 @@ Vamos ver até quanto tempo ela vai durar e até quanto tempo conseguirei criar 
 
 ## Exceção
 
-Um dia na semana me liberarei para comer até 200g de carboidratos, até eu chegar ao peso de 65Kg, devo estar com 68Kg agora.
+![meme voce esta focado na dieta](https://pics.me.me/sevoceviuumovo-frito-jacl-lemes-voce-esta-focado-na-dieta-7777199.png)
+
+Um dia na semana me liberarei para comer até 400g de carboidratos, até eu chegar ao peso de 65Kg, devo estar com 68Kg agora.
 Depois que eu baixar de 65Kg já posso comer mais carboidrato nesse dia tão especial hehehe.
+
+## FAQ
+
+- **O que acontece com o excesso de carboidratos no organismo?**
+
+Um excesso de carboidratos pode provocar um aumento de peso, aumento de tecido adiposo (gordura), aumento de colesterol sanguíneo, sonolência, hiperglicemia (excesso de glicose no sangue) o que consequentemente pode provocar diabetes.
+
+<br>
 
 
 ## Ferramentas
