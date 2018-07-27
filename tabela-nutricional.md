@@ -49,11 +49,18 @@ Para a cápsula de Nescau temos:
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela](https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela)*
 
-#### - Vinho tinto suave
+#### - Cerveja Stella Artois - long neck
+
+![Tabela nutricional da Cerveja Stella Artois long neck](https://i.imgur.com/ZHRaqyV.png)
+
+*Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck)*
+
+
+#### - Vinho - tinto suave
 
 ![Tabela nutricional do Vinho tinto suave](https://i.imgur.com/adSTw4C.png)
 
-Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa)*
+*Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa)*
 
 
 #### - Skittles
