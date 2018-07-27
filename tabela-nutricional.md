@@ -11,14 +11,16 @@
 
 #### - Cappuccino
 
-Para a cápsula de Nescau temos:
+> 1 cápsula = 17g
 
-![Tabela nutricional cápsula de Nescau](https://i.imgur.com/IceVRw6.png)
+![Tabela nutricional cápsula de Nescau](https://i.imgur.com/PB1KCD1.png)
 
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula)*
 
 
-#### - Energético
+#### - Energético One
+
+> 200ml = 18g
 
 ![Tabela nutricional do Energético](https://i.imgur.com/fbCIK3Y.jpg)
 
@@ -27,11 +29,15 @@ Para a cápsula de Nescau temos:
 
 #### - Alface roxa
 
+> 100g = 2.5g
+
 ![Tabela nutricional da Alface roxa crua](https://i.imgur.com/FzMXi63.png)
 
-*Retirado de: [https://www.tabelanutricional.com.br/alface-roxa-crua](https://www.tabelanutricional.com.br/alface-roxa-crua)*
+  *Retirado de: [https://www.tabelanutricional.com.br/alface-roxa-crua](https://www.tabelanutricional.com.br/alface-roxa-crua)*
 
 #### - Carambola
+
+> 1 carambola = 9g
 
 ![Tabela nutricional da Carambola](https://i.imgur.com/FMKddjU.png)
 
@@ -39,17 +45,23 @@ Para a cápsula de Nescau temos:
 
 #### - Queijo Minas Frescal light
 
+> 0g
+
 ![https://i.imgur.com/l9JanNT.png](https://i.imgur.com/l9JanNT.png)
 
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/sol-brilhante/queijo-minas-frescal-light/2-fatias](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/sol-brilhante/queijo-minas-frescal-light/2-fatias)*
 
 #### - Mortadela
 
+> 1 fatia = 1g
+
 ![Tabela nutricional da Mortadela](https://i.imgur.com/44dRERS.png)
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela](https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela)*
 
 #### - Cerveja Stella Artois - long neck
+
+> 1 cerveja = 9g
 
 ![Tabela nutricional da Cerveja Stella Artois long neck](https://i.imgur.com/ZHRaqyV.png)
 
