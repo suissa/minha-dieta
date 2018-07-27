@@ -75,4 +75,13 @@ Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9
 
 ![Tabela nutricional do ovo frito](https://i.imgur.com/FS6n5qt.png)
 
-*Retirdado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
+*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
+
+
+#### - Cebola branca (frita)
+
+> 1 cebola = 6.2g de carb
+
+![Tabela nutricional da Cebola branca frita](https://i.imgur.com/hJzSX0b.png)
+
+*Retirado de: [https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=5808240](https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=5808240)*
