@@ -55,9 +55,22 @@ Ingerindo menos de 50 gramas de carboidrato por dia, seu corpo entra em um estad
 
 ## FAQ
 
+- **Quais são as principais fontes de carboidratos?**
+
+As principais fontes de carboidratos são: mel, pães, torradas, batata, arroz, cereais integrais como aveia, linhaça, farelo de trigo, milho e frutas. Confira um exemplo de consumo de carboidratos em um dia: 2 fatias de pão integral = 50 g.
+
+<br>
+
 - **O que acontece com o excesso de carboidratos no organismo?**
 
 Um excesso de carboidratos pode provocar um aumento de peso, aumento de tecido adiposo (gordura), aumento de colesterol sanguíneo, sonolência, hiperglicemia (excesso de glicose no sangue) o que consequentemente pode provocar diabetes.
+
+<br>
+
+
+- **Quais são os carboidratos que devemos evitar?**
+
+Pão branco, batata inglesa, macarrão, cereal matinal à base de milho, granola com açúcar, sobremesa e bebida alcoólica. 5. CARBOIDRATOS PARA INVESTIR: Alimentos integrais, frutas com casca, legumes crus e verduras; inhame, aipim, batata doce. “Sempre coloque uma fibra ou uma boa gordura por 
 
 <br>
 
