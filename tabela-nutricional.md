@@ -9,6 +9,8 @@
 
 *Retirado de: [https://www.tabelanutricional.com.br/alface-roxa-crua](https://www.tabelanutricional.com.br/alface-roxa-crua)*
 
+<hr>
+
 #### - Café: Cappuccino
 
 > 1 cápsula = 17g
@@ -16,6 +18,9 @@
 ![Tabela nutricional cápsula de Nescau](https://i.imgur.com/PB1KCD1.png)
 
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula)*
+
+<hr>
+
 
 #### - Cebola: branca (frita)
 
@@ -26,6 +31,9 @@
 *Retirado de: [https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=5808240](https://www.fatsecret.com.br/Diary.aspx?pa=fjrd&rid=5808240)*
 
 
+<hr>
+
+
 #### - Cerveja: Bohemia Pilsen (lata)
 
 > 1 lata 350ml = 4g
@@ -33,6 +41,8 @@
 ![Tabela nutricional da Cerveja Bohemia Pilsen lata](https://i.imgur.com/OHbBfWy.png)
 
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/dolce-gusto/nescau/1-c%C3%A1psula)*
+
+<hr>
 
 #### - Cerveja: Stella Artois (long neck)
 
@@ -43,17 +53,26 @@
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck)*
 
 
+<hr>
+
+
 #### - Doce: Skittles
 
 > 1 skittles = 1g de carb
 
 ![Tabela nutricional do Skittles](https://i.imgur.com/bttyD0M.png)
 
+<hr>
+
+
 #### - Energético: One (2l)
 
 > 200ml = 18g
 
 ![Tabela nutricional do Energético](https://i.imgur.com/fbCIK3Y.jpg)
+
+
+<hr>
 
 
 #### - Fruta: Carambola
@@ -65,6 +84,9 @@
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/202-carambola](https://www.dietaesaude.com.br/dietas/alimentos/202-carambola)*
 
 
+<hr>
+
+
 #### - Embutido: Peito de Peru
 
 > 1 fatia = 0.5g
@@ -72,6 +94,9 @@
 ![Tabela nutricional do Peito de Peru Defumado Sadia](https://i.imgur.com/7GraRAB.png)
 
 *Retirado de: [https://www.sadia.com.br/produtos/peito-de-peru-defumado](https://www.sadia.com.br/produtos/peito-de-peru-defumado)*
+
+<hr>
+
 
 #### - Embutido: Mortadela (defumada)
 
@@ -82,6 +107,9 @@
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela](https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela)*
 
 
+<hr>
+
+
 #### - Queijo: Minas Frescal light
 
 > 0g
@@ -89,6 +117,9 @@
 ![https://i.imgur.com/l9JanNT.png](https://i.imgur.com/l9JanNT.png)
 
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/sol-brilhante/queijo-minas-frescal-light/2-fatias](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/sol-brilhante/queijo-minas-frescal-light/2-fatias)*
+
+<hr>
+
 
 #### - Queijo: Mussarela
 
@@ -99,11 +130,17 @@
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/757-queijo-tipo-mussarela?q=queijo+mussarela](https://www.dietaesaude.com.br/dietas/alimentos/757-queijo-tipo-mussarela?q=queijo+mussarela)*
 
 
+<hr>
+
+
 #### - Ovo
 
 > 1 ovo = 0.5g de carb
 
 ![Tabela nutricional do ovo](https://i.imgur.com/ilph9NQ.jpg)
+
+<hr>
+
 
 #### - Ovo (frito)
 
@@ -112,6 +149,9 @@
 ![Tabela nutricional do ovo frito](https://i.imgur.com/FS6n5qt.png)
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
+
+<hr>
+
 
 #### - Vinho: Campo Largo (tinto suave)
 
