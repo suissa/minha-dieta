@@ -59,8 +59,15 @@
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/202-carambola](https://www.dietaesaude.com.br/dietas/alimentos/202-carambola)*
 
 
+#### - Embutido: Peito de Peru
 
-#### - Mortadela: defumada
+> 1 fatia = 0.5g
+
+![Tabela nutricional do Peito de Peru Defumado Sadia](https://i.imgur.com/7GraRAB.png)
+
+*Retirado de: [https://www.sadia.com.br/produtos/peito-de-peru-defumado](https://www.sadia.com.br/produtos/peito-de-peru-defumado)*
+
+#### - Embutido: Mortadela (defumada)
 
 > 1 fatia = 1g
 
@@ -95,10 +102,6 @@
 ![Tabela nutricional do ovo frito](https://i.imgur.com/FS6n5qt.png)
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
-
-#### - Peito de Peru
-
-![Tabela nutricional do Peito de Peru Defumado Sadia](https://i.imgur.com/7GraRAB.png)
 
 #### - Queijo: Minas Frescal light
 
