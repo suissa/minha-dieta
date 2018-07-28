@@ -6,6 +6,8 @@ Vou tentar logar todos os dias minha alimentação para futuras análises, essa 
 
 Vamos ver até quanto tempo ela vai durar e até quanto tempo conseguirei criar esse diário.
 
+[Acompanhe aqui meu diário dessa dieta](https://github.com/suissa/minha-dieta/blob/master/diario.md)
+
 ## Exceção
 
 ![meme voce esta focado na dieta](https://pics.me.me/sevoceviuumovo-frito-jacl-lemes-voce-esta-focado-na-dieta-7777199.png)
@@ -89,3 +91,5 @@ Portanto, a quantidade de carboidratos líquidos, ou seja, a quantidade que real
 ### Tabela Nutricional
 
 Para pesquisar os valores nutricionais dos alimentos ou pesquiso direto no site ou [aqui no dietaesaude.com.br](https://www.dietaesaude.com.br/dietas/alimentos/).
+
+
