@@ -9,7 +9,7 @@
 
 *Retirado de: [https://www.tabelanutricional.com.br/alface-roxa-crua](https://www.tabelanutricional.com.br/alface-roxa-crua)*
 
-#### - Cappuccino
+#### - Café: Cappuccino
 
 > 1 cápsula = 17g
 
@@ -43,6 +43,12 @@
 *Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/stella-artois/cerveja/1-long-neck)*
 
 
+#### - Doce: Skittles
+
+> 1 skittles = 1g de carb
+
+![Tabela nutricional do Skittles](https://i.imgur.com/bttyD0M.png)
+
 #### - Energético: One (2l)
 
 > 200ml = 18g
@@ -75,33 +81,6 @@
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela](https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela)*
 
-#### - Vinho - tinto suave
-
-![Tabela nutricional do Vinho tinto suave](https://i.imgur.com/adSTw4C.png)
-
-*Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa)*
-
-
-#### - Skittles
-
-> 1 skittles = 1g de carb
-
-![Tabela nutricional do Skittles](https://i.imgur.com/bttyD0M.png)
-
-
-#### - Ovo
-
-> 1 ovo = 0.5g de carb
-
-![Tabela nutricional do ovo](https://i.imgur.com/ilph9NQ.jpg)
-
-#### - Ovo (frito)
-
-> 1 ovo = 0.6g de carb
-
-![Tabela nutricional do ovo frito](https://i.imgur.com/FS6n5qt.png)
-
-*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
 
 #### - Queijo: Minas Frescal light
 
@@ -120,3 +99,22 @@
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/757-queijo-tipo-mussarela?q=queijo+mussarela](https://www.dietaesaude.com.br/dietas/alimentos/757-queijo-tipo-mussarela?q=queijo+mussarela)*
 
 
+#### - Ovo
+
+> 1 ovo = 0.5g de carb
+
+![Tabela nutricional do ovo](https://i.imgur.com/ilph9NQ.jpg)
+
+#### - Ovo (frito)
+
+> 1 ovo = 0.6g de carb
+
+![Tabela nutricional do ovo frito](https://i.imgur.com/FS6n5qt.png)
+
+*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo](https://www.dietaesaude.com.br/dietas/alimentos/618-ovo-frito?aspxerrorpath=/a&q=ovo)*
+
+#### - Vinho: Campo Largo (tinto suave)
+
+![Tabela nutricional do Vinho tinto suave](https://i.imgur.com/adSTw4C.png)
+
+*Retirado de: [https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa](https://www.fatsecret.com.br/calorias-nutri%C3%A7%C3%A3o/gen%C3%A9rico/vinho-tinto-de-mesa)*
