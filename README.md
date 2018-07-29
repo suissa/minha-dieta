@@ -57,10 +57,15 @@ Ingerindo menos de 50 gramas de carboidrato por dia, seu corpo entra em um estad
 
 ## Regime - meu
 
-Essa primeira semanas de adaptação aceito fazer até uns 100 chutando alto 200g num dia, mas em outro dia preciso fazer 0g.
+Essa primeira semanas de adaptação aceito fazer até uns 100g chutando alto 200g num dia, mas em outro dia preciso fazer 0g.
 
 Minha meta nessa primeira semana é fazer 500g AO TOTAL, chutando máximo de 700g.
 
+### Divisão Nutricional
+
+- carboidratos: <= 5 a 10% do total de calorias;
+- proteínas: 20% a 30% do total das calorias;
+- gorduras 65% a 75% das calorias (possivelmente até mais).
 
 ## FAQ
 
