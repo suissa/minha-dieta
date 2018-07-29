@@ -55,6 +55,13 @@ Ingerindo menos de 50 gramas de carboidrato por dia, seu corpo entra em um estad
 
 <br>
 
+## Regime - meu
+
+Essa primeira semanas de adaptação aceito fazer até uns 100 chutando alto 200g num dia, mas em outro dia preciso fazer 0g.
+
+Minha meta nessa primeira semana é fazer 500g AO TOTAL, chutando máximo de 700g.
+
+
 ## FAQ
 
 - **Quais são as principais fontes de carboidratos?**
