@@ -1,5 +1,19 @@
 # Alimentos soníferos
 
+## Abacate
+
+Um dos benefícios de consumir o abacate antes de dormir está diretamente ligado à qualidade de sono. Por ser uma fonte rica de magnésio, o alimento é uma forma natural de fazer com que o sono chegue mais rápido.
+
+Segundo o especialista Juliano Pimentel, o magnésio é essencial na produção da serotonina, o “hormônio da felicidade”. “Certos hormônios regulados pelo magnésio são cruciais para acalmar o cérebro e promover o relaxamento, razão pela qual uma deficiência de magnésio pode levar a insônia”, revela o profissional.
+
+Veja também: Descubra como fazer o abacate amadurecer rapidinho em casa
+
+Segundo uma pesquisa publicada pelo Journal of Neuropharmacology, os ratos que tinha deficiência de magnésio apresentavam comportamentos relacionados à ansiedade comparados aos outros mesmos animais que receberam suplementos de magnésio. Além de ajudar a acalmar a mente e acabar com a ansiedade e estresse, o magnésio também pode combater sintomas da depressão.
+
+
+*fonte: [https://www.remedio-caseiro.com/abacate-antes-de-dormir-faz-bem-ou-mal-saiba/](https://www.remedio-caseiro.com/abacate-antes-de-dormir-faz-bem-ou-mal-saiba/)*
+
+
 ## Banana
 
 ![Banana](https://nit.pt/wp-content/uploads/2017/08/88752298859a42da538b83d47b9feb9c-754x394.jpeg)
