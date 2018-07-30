@@ -75,18 +75,6 @@
 <hr>
 
 
-#### - Fruta: Carambola
-
-> 1 carambola = 9g
-
-![Tabela nutricional da Carambola](https://i.imgur.com/FMKddjU.png)
-
-*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/202-carambola](https://www.dietaesaude.com.br/dietas/alimentos/202-carambola)*
-
-
-<hr>
-
-
 #### - Embutido: Peito de Peru
 
 > 1 fatia = 0.5g
@@ -105,6 +93,28 @@
 ![Tabela nutricional da Mortadela](https://i.imgur.com/44dRERS.png)
 
 *Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela](https://www.dietaesaude.com.br/dietas/alimentos/576-mortadela?q=mortadela)*
+
+<hr>
+
+
+#### - Fruta: Banana (prata)
+
+> 1 banana = 9g
+
+![Tabela nutricional da Carambola](https://i.imgur.com/HRMqDdP.png)
+
+*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/2068-banana-prata?q=banana](https://www.dietaesaude.com.br/dietas/alimentos/2068-banana-prata?q=banana)*
+
+<hr>
+
+
+#### - Fruta: Carambola
+
+> 1 carambola = 9g
+
+![Tabela nutricional da Carambola](https://i.imgur.com/FMKddjU.png)
+
+*Retirado de: [https://www.dietaesaude.com.br/dietas/alimentos/202-carambola](https://www.dietaesaude.com.br/dietas/alimentos/202-carambola)*
 
 
 <hr>
