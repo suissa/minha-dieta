@@ -162,6 +162,14 @@
 
 <hr>
 
+#### - Uísque: Jim Beam Honey
+
+> 0g
+
+https://www.myfitnesspal.com/pt/food/calories/jim-beam-bourbon-with-honey-360377531?v2=false#
+
+
+<hr>
 
 #### - Vinho: Campo Largo (tinto suave)
 
